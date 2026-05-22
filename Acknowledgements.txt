@@ -1,0 +1,3 @@
+MyAnimeList & Jikan API for public data access
+Hugging Face for transformer models
+All anime fans who write passionate reviews ❤️

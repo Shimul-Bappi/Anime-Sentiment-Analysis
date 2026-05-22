@@ -1,0 +1,12 @@
+├── Anime_Sentiment_Analysis_and_Emotion_Mining.ipynb   # Main notebook
+├── anime_sentiment_linkedin_report.html               # Full research report
+├── processed_anime_reviews_final.csv                  # Final dataset
+├── mal_reviews_raw.csv                                # Raw collected data
+├── research_summary_table.csv
+├── results_section.txt
+├── plots/                                             # All generated visualizations
+│   ├── wordcloud_positive.png
+│   ├── wordcloud_negative.png
+│   ├── emotion_distribution.png
+│   └── ...
+└── mal_reviews.db                                     # SQLite database

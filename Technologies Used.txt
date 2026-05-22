@@ -1,0 +1,4 @@
+NLP: VADER, spaCy, Hugging Face Transformers
+Models: BERT, RoBERTa, Logistic Regression, SVM
+Visualization: Matplotlib, Seaborn, WordCloud
+Data: Jikan MAL API, SQLite, Pandas
